@@ -26,6 +26,6 @@ Image
 ---
 <details><summary>Screenshot</summary>
  <p>
-  <img src="screenshot/dashboard.png" alt="dashboard">
+  <img src="Screenshot_2024-11-06-07-37-31-618_mark.via.gp.jpg" alt="dashboard">
  </p>
 </details>
