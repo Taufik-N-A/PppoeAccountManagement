@@ -2,7 +2,10 @@
   <h1>PPPOE ACCOUNT MANAGEMENT</h1>
 </div>
 
-
+<div align="center">
+  <a target="_blank" href="https://github.com/Maizil41/RadiusMonitor/releases"><img src="https://img.shields.io/badge/Version-2.6--beta-blue?style=for-the-badge&logo=github"></a>
+  <a target="_blank" href="https://github.com/Maizil41/RadiusMonitor/releases"><img src="https://img.shields.io/github/downloads/Maizil41/RadiusMonitor/total?style=for-the-badge&logo=github"></a>
+</div>
 <hr/>
   
 <p align="center">
