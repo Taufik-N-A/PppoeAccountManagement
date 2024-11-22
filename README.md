@@ -12,6 +12,7 @@
 <hr/>
 
 ### luci-app-pppoe-account-management for openwrt
+<hr/>
 
 Features
 ---
