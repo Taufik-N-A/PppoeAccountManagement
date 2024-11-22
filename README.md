@@ -16,7 +16,7 @@
 Features
 ---
 - Add & Remove Users pppoe
-- Expired date account
+- Expiration date account
 
 Credit
 ---
