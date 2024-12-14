@@ -21,6 +21,11 @@
 > - for openwrt version 22 and below use v2.0, and for openwrt version 23 use v2.1
 >
 
+Features
+---
+- Add & Remove Users pppoe
+- Expiration date account
+
 installation
 ---
  - Download rp-pppoe-server in the luci openwrt software menu
@@ -44,12 +49,11 @@ opkg update && opkg install *.ipk
   <p>
   <img src="dasboard.jpg" alt="dashboard">
  </p>
- - To automatically delete an expired account, you can enter this code in
-
-Features
----
-- Add & Remove Users pppoe
-- Expiration date account
+ - To automatically delete an expired account, you can enter this code in the Scheduled Tasks menu:
+```shell
+0 0 * * * /user/bin/pppoe-checker && /etc/init.d/pppoe-server restart
+```
+ - Done
 
 Credit
 ---
