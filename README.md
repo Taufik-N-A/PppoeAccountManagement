@@ -13,7 +13,7 @@
 </p>
 <hr/>
 
-### luci app PPPoE Account Management For Openwrt
+### Luci App PPPoE Account Management For Openwrt
 <hr/>
 
 > [!WARNING]
