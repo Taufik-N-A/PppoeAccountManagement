@@ -41,7 +41,7 @@ ls
 ```shell
 opkg update && opkg install *.ipk
 ```
-- open tinyfm then open the (/etc/config/pppoe) folder, and change the # sign in the config pppoe_server as the following example:
+- open file manager then open the (/etc/config/pppoe) folder, and change the # sign in the config pppoe_server as the following example:
  <p>
   <img src="config.jpg" alt="config">
  </p>
