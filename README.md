@@ -53,7 +53,7 @@ opkg update && opkg install *.ipk
 ```shell
 0 0 * * * /user/bin/pppoe-checker && /etc/init.d/pppoe-server restart
 ```
- - Done
+- Done
 
 Credit
 ---
