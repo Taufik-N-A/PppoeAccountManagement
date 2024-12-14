@@ -30,7 +30,7 @@ Features
 installation
 ---
 - Download rp-pppoe-server in the luci openwrt software menu
-- Download the IPK file according to the firmware you are using
+- Download the Ipk file that has been released and adjust it with the firmware you are using
 - Upload the ipk file to the root folder
 - Open the terminal for installation luci pppoe account management app, copy to the following 3 codes:
 ```shell
