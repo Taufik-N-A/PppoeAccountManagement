@@ -27,6 +27,18 @@ installation
 - Download the IPK file according to the firmware you are using
 - upload the ipk file to the root folder
 - Open the terminal for installation of the Luci app PPPOE account management, copy the following code:
+- step 1
+```shell
+cd
+```
+- step 2
+```shell
+ls
+```
+- step 3
+```shell
+opkg update && opkg install *.ipk
+```
 
 Features
 ---
