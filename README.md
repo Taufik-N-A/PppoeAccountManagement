@@ -41,7 +41,7 @@ ls
 ```shell
 opkg update && opkg install *.ipk
 ```
-- open tinyfm then open the etc/config/pppoe folder, and change the # sign in the pppoe_server config as the following example:
+- open tinyfm then open the (/etc/config/pppoe) folder, and change the # sign in the pppoe_server config as the following example:
  <p>
   <img src="config.jpg" alt="config">
  </p>
@@ -52,7 +52,7 @@ opkg update && opkg install *.ipk
 • To automatically delete an expired account, you can enter this code in the Scheduled Tasks menu:
 
 ```shell
-0 0 * * * /user/bin/pppoe-checker && /etc/init.d/pppoe-server restart
+0 0 * * * /usr/bin/pppoe-checker && /etc/init.d/pppoe-server restart
 ```
 
 Credit
