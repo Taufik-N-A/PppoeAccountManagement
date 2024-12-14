@@ -13,7 +13,7 @@
 </p>
 <hr/>
 
-### luci-app-pppoe-account-management for openwrt
+### luci app PPPoE Account Management For Openwrt
 <hr/>
 
 > [!WARNING]
@@ -23,7 +23,7 @@
 
 Features
 ---
-- Add & Remove Users pppoe
+- Add & Remove account PPPoE
 - Expiration date account
 
 installation
@@ -41,7 +41,7 @@ ls
 ```shell
 opkg update && opkg install *.ipk
 ```
-- open tinyfm then open the (/etc/config/pppoe) folder, and change the # sign in the pppoe_server config as the following example:
+- open tinyfm then open the (/etc/config/pppoe) folder, and change the # sign in the config pppoe_server as the following example:
  <p>
   <img src="config.jpg" alt="config">
  </p>
