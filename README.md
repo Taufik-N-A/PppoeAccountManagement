@@ -4,7 +4,6 @@
 
 <div align="center">
   <a target="_blank" href="https://github.com/Taufik-N-A/luci-app-pppoe-account-management/releases"><img src="https://img.shields.io/badge/Version-2.0 and 2.1-blue?style=for-the-badge&logo=github"></a>
-  <a target="_blank" href="https://github.com/Taufik-N-A/PppoeAccountManagement"><img src="https://img.shields.io/github/downloads/Taufik-N-A/PppoeAccountManagement?style=for-the-badge&logo=github"></a>
 </div>
 <hr/>
   
