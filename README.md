@@ -39,6 +39,10 @@ ls
 ```shell
 opkg update && opkg install *.ipk
 ```
+- open tinyfm then open the etc/config/pppoe folder, and change the # sign in the pppoe_server config as the following example:
+ <p>
+  <img src="config.jpg" alt="config">
+ </p>
 
 Features
 ---
@@ -51,10 +55,8 @@ Credit
   <li>Owner : <a href="https://github.com/Taufik-N-A" target="_blank">TAUFIK</a></li>
 </ul>
 
-Image
+Screenshot
 ---
-<details><summary>Screenshot</summary>
  <p>
   <img src="Screenshot_2024-11-06-07-37-31-618_mark.via.gp.jpg" alt="dashboard">
  </p>
-</details>
