@@ -23,10 +23,10 @@
 
 installation
 ---
-1 Download rp-pppoe-server in the luci openwrt software menu
-2 Download the IPK file according to the firmware you are using
-3 upload the ipk file to the root folder
-4 Open the terminal for installation of the Luci app PPPOE account management, copy the following code:
+- Download rp-pppoe-server in the luci openwrt software menu
+- Download the IPK file according to the firmware you are using
+- upload the ipk file to the root folder
+- Open the terminal for installation of the Luci app PPPOE account management, copy the following code:
 
 Features
 ---
