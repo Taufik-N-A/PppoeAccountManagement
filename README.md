@@ -52,7 +52,8 @@ opkg update && opkg install *.ipk
  - To automatically delete an expired account, you can enter this code in the Scheduled Tasks menu:
 
 ```shell
-0 0 * * * /user/bin/pppoe-checker && /etc/init.d/pppoe-server restart```
+0 0 * * * /user/bin/pppoe-checker && /etc/init.d/pppoe-server restart
+```
 
 Credit
 ---
