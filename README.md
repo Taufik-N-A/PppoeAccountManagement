@@ -23,26 +23,28 @@
 
 installation
 ---
-- Download rp-pppoe-server in the luci openwrt software menu
-- Download the IPK file according to the firmware you are using
-- upload the ipk file to the root folder
-- Open the terminal for installation of the Luci app PPPOE account management, copy the following code:
-- step 1
+ - Download rp-pppoe-server in the luci openwrt software menu
+ - Download the IPK file according to the firmware you are using
+ - upload the ipk file to the root folder
+ - Open the terminal for installation luci pppoe account management app, copy to the following 3 codes:
 ```shell
 cd
 ```
-- step 2
 ```shell
 ls
 ```
-- step 3
 ```shell
 opkg update && opkg install *.ipk
 ```
-- open tinyfm then open the etc/config/pppoe folder, and change the # sign in the pppoe_server config as the following example:
+ - open tinyfm then open the etc/config/pppoe folder, and change the # sign in the pppoe_server config as the following example:
  <p>
   <img src="config.jpg" alt="config">
  </p>
+ - Open the PPPoE Account in the service menu and according to the settings then create an account, for example as follows:
+  <p>
+  <img src="dasboard.jpg" alt="dashboard">
+ </p>
+ - To automatically delete an expired account, you can enter this code in
 
 Features
 ---
@@ -54,9 +56,3 @@ Credit
 <ul>
   <li>Owner : <a href="https://github.com/Taufik-N-A" target="_blank">TAUFIK</a></li>
 </ul>
-
-Screenshot
----
- <p>
-  <img src="Screenshot_2024-11-06-07-37-31-618_mark.via.gp.jpg" alt="dashboard">
- </p>
